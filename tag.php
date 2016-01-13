@@ -8,4 +8,3 @@ using that particular Tag in chronological order, from newest Posts at the top t
 <?php get_header(); ?>
 
 <?php get_footer(); ?>
-
