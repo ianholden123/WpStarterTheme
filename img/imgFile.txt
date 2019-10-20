@@ -1,1 +1,1 @@
-This is where image files can sit.
+(Optional) - This is where image files can sit.

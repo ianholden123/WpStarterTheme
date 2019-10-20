@@ -1,4 +1,4 @@
-<p class="copyright">&copy; Copyright <?php echo date("Y"); ?> - Ian Holden</p>
+<p id="copyright">&copy; Copyright <?php echo date("Y"); ?></p>
 
 <?php wp_footer(); ?>
 </body>
